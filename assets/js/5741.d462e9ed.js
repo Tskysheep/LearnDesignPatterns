@@ -1,0 +1,1 @@
+(globalThis.webpackChunklearn_design_patterns_docs=globalThis.webpackChunklearn_design_patterns_docs||[]).push([[5741],{45741(){}}]);

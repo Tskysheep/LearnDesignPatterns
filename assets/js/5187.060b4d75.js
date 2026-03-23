@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunklearn_design_patterns_docs=globalThis.webpackChunklearn_design_patterns_docs||[]).push([[5187],{75187(e,s,a){a.d(s,{createTreemapServices:()=>r.d});var r=a(1592);a(6902)}}]);

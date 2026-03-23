@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunklearn_design_patterns_docs=globalThis.webpackChunklearn_design_patterns_docs||[]).push([[6235],{56235(e,s,a){a.d(s,{createInfoServices:()=>n.v});var n=a(41009);a(6902)}}]);

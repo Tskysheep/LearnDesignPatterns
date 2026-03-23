@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunklearn_design_patterns_docs=globalThis.webpackChunklearn_design_patterns_docs||[]).push([[3201],{53201(e,s,a){a.d(s,{createPieServices:()=>n.f});var n=a(97761);a(6902)}}]);

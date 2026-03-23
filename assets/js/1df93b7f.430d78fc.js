@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunklearn_design_patterns_docs=globalThis.webpackChunklearn_design_patterns_docs||[]).push([[4583],{36866(s,n,e){e.r(n),e.d(n,{default:()=>d});var r=e(56347),t=e(86025),a=e(74848);function d(){return(0,a.jsx)(r.rd,{to:(0,t.Ay)("/docs/intro")})}}}]);
