@@ -40,3 +40,8 @@ Thumbs.db
 *.pdb
 *.ilk
 *.exp
+
+# ========================
+# claude code 产物
+# ========================
+.playwright-mcp/
