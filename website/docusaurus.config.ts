@@ -7,11 +7,11 @@ const config: Config = {
   tagline: '基于"封装变化"分类法的 GoF 23 种设计模式教学',
   favicon: 'img/favicon.ico',
 
-  url: 'https://design-patterns.example.com',
-  baseUrl: '/',
+  url: 'https://tskysheep.github.io',
+  baseUrl: '/LearnDesignPatterns/',
 
-  organizationName: 'learn-design-patterns',
-  projectName: 'learn-design-patterns',
+  organizationName: 'Tskysheep',
+  projectName: 'LearnDesignPatterns',
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
