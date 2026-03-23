@@ -1,0 +1,9 @@
+{
+  "label": "接口隔离",
+  "position": 7,
+  "collapsed": false,
+  "link": {
+    "type": "generated-index",
+    "description": "封装接口的变化，在不同组件之间建立间接层"
+  }
+}

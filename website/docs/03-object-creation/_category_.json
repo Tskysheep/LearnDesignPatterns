@@ -1,0 +1,9 @@
+{
+  "label": "对象创建",
+  "position": 5,
+  "collapsed": false,
+  "link": {
+    "type": "generated-index",
+    "description": "封装对象创建的变化，绕开 new 带来的紧耦合"
+  }
+}

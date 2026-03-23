@@ -1,0 +1,9 @@
+{
+  "label": "单一职责",
+  "position": 4,
+  "collapsed": false,
+  "link": {
+    "type": "generated-index",
+    "description": "封装对象在某个维度上的变化，避免类膨胀"
+  }
+}

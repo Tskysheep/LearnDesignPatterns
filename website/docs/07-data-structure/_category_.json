@@ -1,0 +1,9 @@
+{
+  "label": "数据结构",
+  "position": 9,
+  "collapsed": false,
+  "link": {
+    "type": "generated-index",
+    "description": "封装数据结构的变化，使算法与结构解耦"
+  }
+}

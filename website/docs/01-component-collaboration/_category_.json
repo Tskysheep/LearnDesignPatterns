@@ -1,0 +1,9 @@
+{
+  "label": "组件协作",
+  "position": 3,
+  "collapsed": false,
+  "link": {
+    "type": "generated-index",
+    "description": "封装组件之间的协作关系，通过晚绑定实现框架与应用的松耦合"
+  }
+}

@@ -1,0 +1,2 @@
+add_executable(Pattern_Prototype Prototype.cpp Prototype.h)
+target_compile_features(Pattern_Prototype PRIVATE cxx_std_17)

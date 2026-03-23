@@ -1,0 +1,9 @@
+{
+  "label": "行为变化",
+  "position": 10,
+  "collapsed": false,
+  "link": {
+    "type": "generated-index",
+    "description": "封装对象行为的变化，在运行时动态改变行为"
+  }
+}

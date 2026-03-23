@@ -1,0 +1,4 @@
+add_subdirectory(FactoryMethod)
+add_subdirectory(AbstractFactory)
+add_subdirectory(Prototype)
+add_subdirectory(Builder)

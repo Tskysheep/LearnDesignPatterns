@@ -1,0 +1,2 @@
+add_executable(Pattern_TemplateMethod TemplateMethod.cpp TemplateMethod.h)
+target_compile_features(Pattern_TemplateMethod PRIVATE cxx_std_17)

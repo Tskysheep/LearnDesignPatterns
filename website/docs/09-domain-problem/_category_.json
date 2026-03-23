@@ -1,0 +1,9 @@
+{
+  "label": "领域问题",
+  "position": 11,
+  "collapsed": false,
+  "link": {
+    "type": "generated-index",
+    "description": "封装特定领域的变化，为特定领域提供表达力"
+  }
+}

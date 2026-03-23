@@ -1,0 +1,2 @@
+add_executable(Pattern_AbstractFactory AbstractFactory.cpp AbstractFactory.h)
+target_compile_features(Pattern_AbstractFactory PRIVATE cxx_std_17)

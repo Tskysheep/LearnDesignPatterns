@@ -1,0 +1,2 @@
+add_executable(Pattern_FactoryMethod FactoryMethod.cpp FactoryMethod.h)
+target_compile_features(Pattern_FactoryMethod PRIVATE cxx_std_17)

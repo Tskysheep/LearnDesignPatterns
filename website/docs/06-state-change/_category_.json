@@ -1,0 +1,9 @@
+{
+  "label": "状态变化",
+  "position": 8,
+  "collapsed": false,
+  "link": {
+    "type": "generated-index",
+    "description": "封装对象状态的变化，在状态改变时保持结构稳定"
+  }
+}

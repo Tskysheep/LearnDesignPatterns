@@ -1,0 +1,3 @@
+add_subdirectory(Composite)
+add_subdirectory(Iterator)
+add_subdirectory(ChainOfResponsibility)

@@ -1,0 +1,9 @@
+{
+  "label": "对象性能",
+  "position": 6,
+  "collapsed": false,
+  "link": {
+    "type": "generated-index",
+    "description": "封装对象的创建成本与共享策略"
+  }
+}

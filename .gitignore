@@ -1,0 +1,42 @@
+# ========================
+# C++ / CMake 构建产物
+# ========================
+build/
+cmake-build-*/
+CMakeUserPresets.json
+
+# ========================
+# Docusaurus 网站
+# ========================
+website/node_modules/
+website/build/
+website/.docusaurus/
+website/.cache-loader/
+
+# ========================
+# IDE / 编辑器
+# ========================
+.vs/
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# ========================
+# 编译产物 / 二进制
+# ========================
+*.o
+*.obj
+*.exe
+*.out
+*.a
+*.lib
+*.so
+*.dll
+*.dylib
+*.pdb
+*.ilk
+*.exp
